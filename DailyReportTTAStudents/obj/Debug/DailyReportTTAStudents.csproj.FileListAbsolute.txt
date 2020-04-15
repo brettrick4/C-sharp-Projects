@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\DailyReportTTAStudents\DailyReportTTAStudents\bin\Debug\DailyReportTTAStudents.exe.config
+C:\Users\Student\source\repos\DailyReportTTAStudents\DailyReportTTAStudents\bin\Debug\DailyReportTTAStudents.exe
+C:\Users\Student\source\repos\DailyReportTTAStudents\DailyReportTTAStudents\bin\Debug\DailyReportTTAStudents.pdb
+C:\Users\Student\source\repos\DailyReportTTAStudents\DailyReportTTAStudents\obj\Debug\DailyReportTTAStudents.exe
+C:\Users\Student\source\repos\DailyReportTTAStudents\DailyReportTTAStudents\obj\Debug\DailyReportTTAStudents.pdb
+C:\Users\Student\source\repos\DailyReportTTAStudents\DailyReportTTAStudents\obj\Debug\DailyReportTTAStudents.csprojAssemblyReference.cache

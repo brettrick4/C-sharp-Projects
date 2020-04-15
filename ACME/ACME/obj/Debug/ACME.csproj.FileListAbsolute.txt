@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\ACME\ACME\bin\Debug\ACME.exe.config
+C:\Users\Student\source\repos\ACME\ACME\bin\Debug\ACME.exe
+C:\Users\Student\source\repos\ACME\ACME\bin\Debug\ACME.pdb
+C:\Users\Student\source\repos\ACME\ACME\obj\Debug\ACME.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ACME\ACME\obj\Debug\ACME.exe
+C:\Users\Student\source\repos\ACME\ACME\obj\Debug\ACME.pdb

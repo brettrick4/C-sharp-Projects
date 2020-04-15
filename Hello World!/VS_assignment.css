@@ -1,0 +1,35 @@
+﻿body {
+    background-color: #708090; 
+}
+
+h1 {
+    font-family: 'Franklin Gothic';
+    font-size: xx-large;
+    text-align: center;
+}
+
+.video {
+    position: relative;
+    margin: 50px 480px;
+}
+
+.container {
+    position: relative;
+    background: #000080;
+    width: 400px;
+    height: 600px;
+}
+
+#animation {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    animation: myMove 5s infinite;
+    box-shadow: 5px 5px;
+}
+button {
+    margin-left: 740px;
+    border: 1px solid black;
+    border-radius: 2px;
+    box-shadow: 3px 3px;
+}

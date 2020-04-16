@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\MathDrill3.cs\MathDrill3.cs\bin\Debug\MathDrill3.cs.exe.config
+C:\Users\Student\source\repos\MathDrill3.cs\MathDrill3.cs\bin\Debug\MathDrill3.cs.exe
+C:\Users\Student\source\repos\MathDrill3.cs\MathDrill3.cs\bin\Debug\MathDrill3.cs.pdb
+C:\Users\Student\source\repos\MathDrill3.cs\MathDrill3.cs\obj\Debug\MathDrill3.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MathDrill3.cs\MathDrill3.cs\obj\Debug\MathDrill3.cs.exe
+C:\Users\Student\source\repos\MathDrill3.cs\MathDrill3.cs\obj\Debug\MathDrill3.cs.pdb

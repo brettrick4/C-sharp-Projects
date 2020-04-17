@@ -14,16 +14,22 @@ namespace CarInsurance
             int age = Convert.ToInt32(Console.ReadLine());
             
             Console.ReadLine();
-
+			
+			string DUI;
+			bool isQualified = false;
             Console.WriteLine("True or false; you have been charged with a DUI.");
-            string DUI = Console.ReadLine();
-            bool isEligible = false;
+            DUI = Console.ReadLine()ToLower();
+			if (DUI == "false")
+			{
+				isQualified = true;
+			}
+            
 
             Console.WriteLine("How many tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
 
 
-            if (age > 15 && isEligible == false && tickets < 3)
+            if (age > 15 && isQualified == true && tickets < 3)
             {
                 Console.WriteLine("You are qualified for car insurance.");
             }

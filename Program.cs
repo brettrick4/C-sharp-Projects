@@ -4,53 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IncomeComparison
+namespace CarInsurance
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Anonymous Income Comparison Program");
-            //Console.ReadLine();
-
-            Console.WriteLine("Person 1");
-            //Console.ReadLine();
-
-            Console.WriteLine("Hourly Rate: ");
-            int rate1 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine(rate1);
+            Console.WriteLine("What is your age?");
+            int age = Convert.ToInt32(Console.ReadLine());
+            
             Console.ReadLine();
 
-            Console.WriteLine("Hours worked per week: ");
-            int hours1 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine(hours1);
+            Console.WriteLine("True or false; you have been charged with a DUI.");
+            string DUI = Console.ReadLine();
+            bool isEligible = false;
+
+            Console.WriteLine("How many tickets do you have?");
+            int tickets = Convert.ToInt32(Console.ReadLine());
+
+
+            if (age > 15 && isEligible == false && tickets < 3)
+            {
+                Console.WriteLine("You are qualified for car insurance.");
+            }
+            else
+            {
+                Console.WriteLine("You are not eligible for car insurance.");
+            }
             Console.ReadLine();
-
-            Console.WriteLine("Person 2");
-
-            Console.WriteLine("Hourly Rate: ");
-            int rate2 = Convert.ToInt32(Console.ReadLine());
-            Console.ReadLine();
-
-            Console.WriteLine("Hours worked per week: ");
-            int hours2 = Convert.ToInt32(Console.ReadLine());
-            Console.ReadLine();
-
-            Console.WriteLine("Annual salary of Person 1: ");
-            int yearlyIncome = (rate1 * hours1) * 52;
-            Console.WriteLine(yearlyIncome);
-            Console.ReadLine();
-
-            Console.WriteLine("Annual salary of Person 2: ");
-            int annualIncome = (rate2 * hours2) * 52;
-            Console.WriteLine(annualIncome);
-            Console.ReadLine();
-
-            Console.WriteLine("Does Person 1 make more money annually than Person 2?");
-            bool trueOrfalse = yearlyIncome > annualIncome;
-            Console.WriteLine(trueOrfalse);
-            Console.ReadLine();
-
         }
+
     }
 }

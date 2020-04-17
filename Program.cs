@@ -4,49 +4,54 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IncomeComparison
+namespace PackageApp
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Anonymous Income Comparison Program");
+            Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
+            Console.ReadLine();
+
+            Console.WriteLine("Please enter the weight of the package to be sent.");
+            int weight = Convert.ToInt32(Console.ReadLine());
+            if (weight > 50)
+            {
+                Console.WriteLine("Your package is too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
+                return;
+            }
+
+            Console.WriteLine("Please enter the width of the package in inches.");
+            int width = Convert.ToInt32(Console.ReadLine());
+            if (width > 50)
+            {
+                Console.WriteLine("The package is too wide to be shipped via Package Express.");
+                Console.ReadLine();
+                return;
+            }
             
-            Console.WriteLine("Person 1");
+            Console.WriteLine("Now enter the height of the package in inches.");
+            int height = Convert.ToInt32(Console.ReadLine());
+            if (height > 50)
+            {
+                Console.WriteLine("This package is too tall to be shipped by Package Express. Good Day to you;");
+                Console.ReadLine();
+                return;
+            }
 
-            Console.WriteLine("Hourly Rate: ");
-            int rate1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Go ahead, enter the package length, if you feel lucky.");
+            int length = Convert.ToInt32(Console.ReadLine());
+            if (length > 50)
+            {
+                Console.WriteLine("Too long. I said good day!");
+                Console.ReadLine();
+                return;
+            }
+
+            int total = (height * width * length * weight) / 100;
+            Console.WriteLine("Your estimated total for shipping this package is: $" + total);
             Console.ReadLine();
-
-            Console.WriteLine("Hours worked per week: ");
-            int hours1 = Convert.ToInt32(Console.ReadLine());
-             Console.ReadLine();
-
-            Console.WriteLine("Person 2");
-
-            Console.WriteLine("Hourly Rate: ");
-            int rate2 = Convert.ToInt32(Console.ReadLine());
-            Console.ReadLine();
-
-            Console.WriteLine("Hours worked per week: ");
-            int hours2 = Convert.ToInt32(Console.ReadLine());
-            Console.ReadLine();
-
-            Console.WriteLine("Annual salary of Person 1: ");
-            int yearlyIncome = (rate1 * hours1) * 52;
-            Console.WriteLine(yearlyIncome);
-            Console.ReadLine();
-
-            Console.WriteLine("Annual salary of Person 2: ");
-            int annualIncome = (rate2 * hours2) * 52;
-            Console.WriteLine(annualIncome);
-            Console.ReadLine();
-
-            Console.WriteLine("Does Person 1 make more money annually than Person 2?");
-            bool trueOrfalse = yearlyIncome > annualIncome;
-            Console.WriteLine(trueOrfalse);
-            Console.ReadLine();
-
         }
     }
 }

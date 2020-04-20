@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\DoWhileDrill\DoWhileDrill\bin\Debug\DoWhileDrill.exe.config
+C:\Users\Student\source\repos\DoWhileDrill\DoWhileDrill\bin\Debug\DoWhileDrill.exe
+C:\Users\Student\source\repos\DoWhileDrill\DoWhileDrill\bin\Debug\DoWhileDrill.pdb
+C:\Users\Student\source\repos\DoWhileDrill\DoWhileDrill\obj\Debug\DoWhileDrill.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\DoWhileDrill\DoWhileDrill\obj\Debug\DoWhileDrill.exe
+C:\Users\Student\source\repos\DoWhileDrill\DoWhileDrill\obj\Debug\DoWhileDrill.pdb

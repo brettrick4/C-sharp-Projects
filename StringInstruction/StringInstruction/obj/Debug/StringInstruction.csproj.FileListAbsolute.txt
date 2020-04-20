@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\StringInstruction\StringInstruction\bin\Debug\StringInstruction.exe.config
+C:\Users\Student\source\repos\StringInstruction\StringInstruction\bin\Debug\StringInstruction.exe
+C:\Users\Student\source\repos\StringInstruction\StringInstruction\bin\Debug\StringInstruction.pdb
+C:\Users\Student\source\repos\StringInstruction\StringInstruction\obj\Debug\StringInstruction.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\StringInstruction\StringInstruction\obj\Debug\StringInstruction.exe
+C:\Users\Student\source\repos\StringInstruction\StringInstruction\obj\Debug\StringInstruction.pdb

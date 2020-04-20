@@ -15,8 +15,9 @@ namespace DoWhileDrill
 Enter the current temperature.");
             int roomTemp = 70;
             int currentTemp = Convert.ToInt32(Console.ReadLine());
-            bool isTooHot = currentTemp > roomTemp;
+            //bool isTooHot = currentTemp > roomTemp;  <!-- Not doing anything so I coded it out
             bool isPerfect = currentTemp == roomTemp;
+            isPerfect = false;
 
             do
             {
@@ -49,8 +50,8 @@ Enter the current temperature.");
                         break;
                 }
             }
-            while (isTooHot);
-            
+            while (!isPerfect);
+            //Changed isTooHot to !isPerfect, the condition that is being used here//
             Console.ReadLine();
         }
     }

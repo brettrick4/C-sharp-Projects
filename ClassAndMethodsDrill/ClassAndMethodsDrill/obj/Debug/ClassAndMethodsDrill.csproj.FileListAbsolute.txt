@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\ClassAndMethodsDrill\ClassAndMethodsDrill\bin\Debug\ClassAndMethodsDrill.exe.config
+C:\Users\Student\source\repos\ClassAndMethodsDrill\ClassAndMethodsDrill\bin\Debug\ClassAndMethodsDrill.exe
+C:\Users\Student\source\repos\ClassAndMethodsDrill\ClassAndMethodsDrill\bin\Debug\ClassAndMethodsDrill.pdb
+C:\Users\Student\source\repos\ClassAndMethodsDrill\ClassAndMethodsDrill\obj\Debug\ClassAndMethodsDrill.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ClassAndMethodsDrill\ClassAndMethodsDrill\obj\Debug\ClassAndMethodsDrill.exe
+C:\Users\Student\source\repos\ClassAndMethodsDrill\ClassAndMethodsDrill\obj\Debug\ClassAndMethodsDrill.pdb

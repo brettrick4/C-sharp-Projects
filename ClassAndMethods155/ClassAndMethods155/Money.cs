@@ -8,29 +8,25 @@ namespace ClassAndMethods155
 {
     public class Money
     {
-        public void Dollars(int myMon)
+        public int Dollars(int myMon)
         {
             int yourMon = myMon * 2 / 3;
             int totalFunds = yourMon + myMon;
-            Console.WriteLine(@"With my " +myMon+ " and with your " +yourMon+ " that gives us " +totalFunds+ " bucks.");
+            Console.WriteLine("With my " + myMon + " and your " + yourMon + " we got " + totalFunds + ".");
+            return totalFunds;
         }
-        public void Dollars(decimal dollar)
+        public int Dollars(decimal change, int totalFunds)
         {
-            Console.WriteLine("Wait! Check the couch cusions. What did you find?");
-            decimal change = Convert.ToDecimal(Console.ReadLine());
-            int dollars = Convert.ToInt32(Math.Ceiling(change));
-            Console.WriteLine("Thats nearly " + dollars + "!");
+            int dollar = Convert.ToInt32(Math.Ceiling(change));
+            int newTotal = dollar + totalFunds;
+            Console.WriteLine("Thats nearly " + dollar + ", which brings us to " +newTotal+ ", so far.");
+            return newTotal;
         }
-        public void Dollars(string cans, int dollars)
+        public double Dollars(double newTotal)
         {
-            Console.WriteLine("How many bottles and cans do we have to return?");
-            string returnsStr = Convert.ToString(Console.ReadLine());
-            int returns = Convert.ToInt32(returnsStr);
-            decimal totalCans = Convert.ToDecimal(returns * .1);
-            int totalReturns = Convert.ToInt32(Math.Ceiling(totalCans));
-            int totalMoney = totalReturns + dollars;
-            Console.WriteLine("That gives us about " + totalMoney + " bucks.");
-            Console.ReadLine();
+            double canMoney = Convert.ToDouble(144 * .1);
+            double totalMoney = Convert.ToDouble(canMoney + newTotal);
+            return canMoney;
         }
     }
 }

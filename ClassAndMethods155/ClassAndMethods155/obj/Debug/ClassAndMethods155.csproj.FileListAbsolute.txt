@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\ClassAndMethods155\ClassAndMethods155\bin\Debug\ClassAndMethods155.exe.config
+C:\Users\Student\source\repos\ClassAndMethods155\ClassAndMethods155\bin\Debug\ClassAndMethods155.exe
+C:\Users\Student\source\repos\ClassAndMethods155\ClassAndMethods155\bin\Debug\ClassAndMethods155.pdb
+C:\Users\Student\source\repos\ClassAndMethods155\ClassAndMethods155\obj\Debug\ClassAndMethods155.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ClassAndMethods155\ClassAndMethods155\obj\Debug\ClassAndMethods155.exe
+C:\Users\Student\source\repos\ClassAndMethods155\ClassAndMethods155\obj\Debug\ClassAndMethods155.pdb

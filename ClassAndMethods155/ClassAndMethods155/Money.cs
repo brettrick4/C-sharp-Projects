@@ -22,10 +22,9 @@ namespace ClassAndMethods155
             Console.WriteLine("Thats nearly " + dollar + ", which brings us to " +newTotal+ ", so far.");
             return newTotal;
         }
-        public double Dollars(double newTotal)
+        public double Dollars(string returnStr)
         {
             double canMoney = Convert.ToDouble(144 * .1);
-            double totalMoney = Convert.ToDouble(canMoney + newTotal);
             return canMoney;
         }
     }

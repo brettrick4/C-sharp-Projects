@@ -23,12 +23,11 @@ namespace ClassAndMethods155
 
             Console.WriteLine("Also, we have a hundred and forty four bottles and cans to return.");
             string returnStr = Convert.ToString("144");
-            int returns = Convert.ToInt32(returnStr);
             int newTotal = dollar + totalFunds;
             double canMoney = 14.4;
             double totalMoney = Convert.ToDouble(canMoney + newTotal);
             Console.WriteLine("Now we've got " + totalMoney + " bucks, maybe it'll be engough!");
-            money1.Dollars(totalMoney);
+            money1.Dollars(returnStr);
             Console.ReadLine();
         }
     }

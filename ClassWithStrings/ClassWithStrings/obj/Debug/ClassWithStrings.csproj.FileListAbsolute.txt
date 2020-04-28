@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\ClassWithStrings\ClassWithStrings\bin\Debug\ClassWithStrings.exe.config
+C:\Users\Student\source\repos\ClassWithStrings\ClassWithStrings\bin\Debug\ClassWithStrings.exe
+C:\Users\Student\source\repos\ClassWithStrings\ClassWithStrings\bin\Debug\ClassWithStrings.pdb
+C:\Users\Student\source\repos\ClassWithStrings\ClassWithStrings\obj\Debug\ClassWithStrings.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ClassWithStrings\ClassWithStrings\obj\Debug\ClassWithStrings.exe
+C:\Users\Student\source\repos\ClassWithStrings\ClassWithStrings\obj\Debug\ClassWithStrings.pdb

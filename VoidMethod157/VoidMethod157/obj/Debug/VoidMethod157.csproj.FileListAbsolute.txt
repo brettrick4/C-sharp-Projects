@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\VoidMethod157\VoidMethod157\obj\Debug\VoidMethod157.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\VoidMethod157\VoidMethod157\bin\Debug\VoidMethod157.exe.config
+C:\Users\Student\source\repos\VoidMethod157\VoidMethod157\bin\Debug\VoidMethod157.exe
+C:\Users\Student\source\repos\VoidMethod157\VoidMethod157\bin\Debug\VoidMethod157.pdb
+C:\Users\Student\source\repos\VoidMethod157\VoidMethod157\obj\Debug\VoidMethod157.exe
+C:\Users\Student\source\repos\VoidMethod157\VoidMethod157\obj\Debug\VoidMethod157.pdb

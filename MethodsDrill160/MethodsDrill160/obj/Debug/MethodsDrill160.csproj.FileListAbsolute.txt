@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\MethodsDrill160\MethodsDrill160\bin\Debug\MethodsDrill160.exe.config
+C:\Users\Student\source\repos\MethodsDrill160\MethodsDrill160\bin\Debug\MethodsDrill160.exe
+C:\Users\Student\source\repos\MethodsDrill160\MethodsDrill160\bin\Debug\MethodsDrill160.pdb
+C:\Users\Student\source\repos\MethodsDrill160\MethodsDrill160\obj\Debug\MethodsDrill160.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodsDrill160\MethodsDrill160\obj\Debug\MethodsDrill160.exe
+C:\Users\Student\source\repos\MethodsDrill160\MethodsDrill160\obj\Debug\MethodsDrill160.pdb

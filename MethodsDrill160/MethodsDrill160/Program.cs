@@ -20,8 +20,20 @@ namespace MethodsDrill160
             int yards = 1760;
             int distance = miles * yards;
             cosmic1.Distance(miles, yards);
-            Console.WriteLine("If your home is " + miles + " miles away from your work, " +
-                "that is equivalent to " + distance + " yards.");
+            Console.WriteLine( miles + " miles is equivalent to " + distance + " yards.");
+            Console.ReadLine();
+
+            Console.WriteLine("How much water have you had to drink today?");
+            int two = 2;
+            int four = 4;
+            Cosmic.Water(two, four);
+            Console.WriteLine("You should be drinking at least " + Cosmic.Water(2, 4) + 
+                " glasses a day.");
+            Console.ReadLine();
+
+            string a, b;
+            cosmic1.SandBox(out a, out b);
+            Console.WriteLine(a + b);
             Console.ReadLine();
         }
     }

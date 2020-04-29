@@ -19,5 +19,15 @@ namespace MethodsDrill160
             int distance = miles * 1760;
             return distance;
         }
+
+        public void SandBox(out string a, out string b)
+        {
+            a = "Whatever you do, ";
+            b = "don't pee in the sandbox.";
+        }
+        public static int Water(int one, int two)
+        {
+            return one * two;
+        }
     }
 }

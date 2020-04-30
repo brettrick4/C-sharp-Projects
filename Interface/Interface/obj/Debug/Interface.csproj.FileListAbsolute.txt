@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Student\source\repos\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Student\source\repos\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Student\source\repos\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Student\source\repos\Interface\Interface\obj\Debug\Interface.pdb

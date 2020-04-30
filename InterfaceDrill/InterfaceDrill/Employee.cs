@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace InterfaceDrill
 {
     public class Employee : Person, IQuittable
@@ -14,7 +15,7 @@ namespace InterfaceDrill
         }
         public void Quittable(Employee employee)
         {
-            Console.WriteLine("I Quit!");
+            Console.WriteLine("I quit!");
         }
     }
 }

@@ -12,6 +12,8 @@ namespace AbstractClasses
         {
             Employee employee = new Employee() { firstName = "Sample", lastName = " Student" };
             employee.SayName();
+            IQuittable quittable = new Employee();
+            quittable.Quittable(employee);
             Console.ReadLine();
         }
     }

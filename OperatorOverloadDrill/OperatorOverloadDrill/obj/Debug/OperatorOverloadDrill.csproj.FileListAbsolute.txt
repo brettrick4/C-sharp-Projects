@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\OperatorOverloadDrill.exe.config
+C:\Users\Student\source\repos\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\OperatorOverloadDrill.exe
+C:\Users\Student\source\repos\OperatorOverloadDrill\OperatorOverloadDrill\bin\Debug\OperatorOverloadDrill.pdb
+C:\Users\Student\source\repos\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\OperatorOverloadDrill.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\OperatorOverloadDrill.exe
+C:\Users\Student\source\repos\OperatorOverloadDrill\OperatorOverloadDrill\obj\Debug\OperatorOverloadDrill.pdb

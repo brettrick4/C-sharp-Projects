@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\GenericDrill\GenericDrill\bin\Debug\GenericDrill.exe.config
+C:\Users\Student\source\repos\GenericDrill\GenericDrill\bin\Debug\GenericDrill.exe
+C:\Users\Student\source\repos\GenericDrill\GenericDrill\bin\Debug\GenericDrill.pdb
+C:\Users\Student\source\repos\GenericDrill\GenericDrill\obj\Debug\GenericDrill.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\GenericDrill\GenericDrill\obj\Debug\GenericDrill.exe
+C:\Users\Student\source\repos\GenericDrill\GenericDrill\obj\Debug\GenericDrill.pdb

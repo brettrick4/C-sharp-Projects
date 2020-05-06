@@ -8,15 +8,6 @@ namespace GenericsDrill
 {
     class Employee<T>
     {
-        T _Things;
-
-        public Employee(T things)
-        {
-            this._Things = things;
-        }
-        public void Write()
-        {
-            Console.WriteLine(this._Things);
-        }
+        public List<T> Things;
     }
 }

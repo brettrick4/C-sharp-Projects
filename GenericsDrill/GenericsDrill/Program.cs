@@ -8,23 +8,25 @@ namespace GenericsDrill
     {
         static void Main(string[] args)
         {
-            List<int> Things = new List<int>();
-            Things.Add(22);
-            Things.Add(44);
-            Things.Add(88);
+            Employee<int> emp1 = new Employee<int>();
+            Employee<string> emp2 = new Employee<string>();
+            emp1.Things = new List<int>();
+            emp1.Things.Add(22);
+            emp1.Things.Add(44);
+            emp1.Things.Add(88);
 
-            List<string> things = new List<string>();
-            things.Add("Here I ");
-            things.Add("go again ");
-            things.Add("on my own.");
+            emp2.Things = new List<string>();
+            emp2.Things.Add("Here I ");
+            emp2.Things.Add("go again ");
+            emp2.Things.Add("on my own.");
 
-            foreach (string thing in things)
+            foreach (int Thing in emp1.Things)
             {
-                Console.WriteLine(things);
+                Console.WriteLine(Thing);
             }
-            foreach (int Thing in Things)
+            foreach (string Thing in emp2.Things)
             {
-                Console.WriteLine(Things);
+                Console.WriteLine(Thing);
                 Console.ReadLine();
             }
         }

@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\TryCatchExceptions.exe.config
+C:\Users\Student\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\TryCatchExceptions.exe
+C:\Users\Student\source\repos\TryCatchExceptions\TryCatchExceptions\bin\Debug\TryCatchExceptions.pdb
+C:\Users\Student\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.exe
+C:\Users\Student\source\repos\TryCatchExceptions\TryCatchExceptions\obj\Debug\TryCatchExceptions.pdb

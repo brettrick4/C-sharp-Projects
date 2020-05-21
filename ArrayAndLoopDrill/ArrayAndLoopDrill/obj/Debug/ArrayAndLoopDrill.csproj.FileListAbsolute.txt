@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\ArrayAndLoopDrill\ArrayAndLoopDrill\bin\Debug\ArrayAndLoopDrill.exe.config
+C:\Users\Student\source\repos\ArrayAndLoopDrill\ArrayAndLoopDrill\bin\Debug\ArrayAndLoopDrill.exe
+C:\Users\Student\source\repos\ArrayAndLoopDrill\ArrayAndLoopDrill\bin\Debug\ArrayAndLoopDrill.pdb
+C:\Users\Student\source\repos\ArrayAndLoopDrill\ArrayAndLoopDrill\obj\Debug\ArrayAndLoopDrill.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ArrayAndLoopDrill\ArrayAndLoopDrill\obj\Debug\ArrayAndLoopDrill.exe
+C:\Users\Student\source\repos\ArrayAndLoopDrill\ArrayAndLoopDrill\obj\Debug\ArrayAndLoopDrill.pdb
